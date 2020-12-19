@@ -1,0 +1,11 @@
+{
+  "domain": "smartthingslights",
+  "name": "SmartThingsLights",
+  "documentation": "https://github.com/yakhira/smartthingslights",
+  "issue_tracker": "https://github.com/yakhira/smartthingslights/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": [
+    "@yakhira"
+  ]
+}
